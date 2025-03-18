@@ -1,4 +1,4 @@
-# cctx-dashboard
+# ccxt-dashboard
 
 Jupyter Notebook dashboard for multiple cryptocurrencies indicators visualization
 
