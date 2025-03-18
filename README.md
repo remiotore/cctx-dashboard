@@ -2,6 +2,8 @@
 
 Jupyter Notebook dashboard for multiple cryptocurrencies indicators visualization
 
+![Dashboard image](dashboard.png "Dashboard")
+
 ## Features
 
 - Multi select symbols (BTC, ETH, ...)
